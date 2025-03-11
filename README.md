@@ -171,3 +171,14 @@ export type TUserAvatar = Pick<IUser, 'avatar'>;
 - getUserInfo(): TUserPublicInfo - возвращает основные данные пользователя отображаемые на сайте
 - setUserInfo(userData: IUser): void - сохраняет данные пользователя в классе
 - checkValidation(data: Record<keyof TUserPublicInfo, string>): boolean - проверяет объект с данными пользователя на валидность
+
+### Слой представления и его классы
+
+Все классы слоя представления отвечают за отображение внутри контейнера(DOM элемент), передаваемых в них данных\
+
+dsds
+
+dsds
+ds
+ds
+ds
